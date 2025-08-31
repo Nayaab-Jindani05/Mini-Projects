@@ -122,7 +122,7 @@ const Home = () => {
           </div>
         ) : (
           <p style={{ textAlign: 'center', marginTop: '10px', fontWeight: 'bold' }}>
-            No todo...
+            No todles
           </p>
         )}
       </div>
